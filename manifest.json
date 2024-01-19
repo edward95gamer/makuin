@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": "icons/icon-128.png",
+      "default_popup": "popup.html",
+      "default_title": "Lightning Speed Cars Racing"
+   },
+   "background": {
+      "service_worker": "javas/anainout.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://www.ubg4all.com/game/cars-lightning-speed/",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsZKiZ/vP95OUAc3gAWp9IO3J1cyG6A9gdP4955gpIZ1GJXbvMiVzV92A6pFusibPO6iRxZtou++bPBL7K4Ui3UjEQJ8yNZBTLEBGtMwjnX0efKGNfSd0hq2VzMoNx81dTA0lJNHZSEI7zQd1r/UUSmQyzo9MiJTfNDHhm2pqqitJJeJ4Hmxv3H+YeZ6o2VkcqObKzYl1FJchmMIokEuhrmggU+yFRT2EZMq9yYWxtULHNcaReMManofnsRtsvfn/hAcqmIZZFIGpNryZeL+Du6INYJHdrAZzgV9tJsln99kEqpuoM5gPS+oVzMlpne/8Vw+Q66zq329xNYl8eWqypQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "9"
+}
